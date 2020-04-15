@@ -1,0 +1,45 @@
+.title {
+    font-size: 30px;
+    font-family: 'Bangers';
+    color: #9F9F9F;
+    padding-left: 375px;
+    padding-top: 30px;
+  }
+  p{
+    color: white;
+  }
+  
+  img {
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    width: 25%;
+  }
+  
+  ·#img-div {
+    display: flex;
+  }
+  #image {
+    justify-content: space-around;
+  }
+ 
+  body {
+    background-image: url("https://lh3.googleusercontent.com/proxy/Lu0aSNoej5u1IDlcsFXKOoJheCeUL21whr6Z38Qyvnt5y4wKMIgpJKgCER0_DdERJM7mL4B358oDt2NOb-ZS0OLDHXvmTm1HyUKsW335gebW5cm8mPO0sSo3NmlBCGFYxdMzrts5");
+  }
+  form {
+    padding-left: 25px;
+    padding-top: 10px;
+  }
+  a{
+    padding-left: 15px;
+    color: white;
+  }
+  footer{
+    padding-left:25px;
+    padding-top: 15px; 
+    color: white;
+  }
+  #all{
+    display: grid;
+    place-items: center;
+  }
